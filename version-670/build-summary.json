@@ -1,0 +1,21 @@
+{
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "html_pages": 2014,
+  "jpg_files_in_zip": 0,
+  "categories": {
+    "热播剧集": 200,
+    "高清电影": 200,
+    "韩剧日剧": 200,
+    "欧美精选": 200,
+    "经典老片": 200,
+    "悬疑犯罪": 200,
+    "喜剧综艺": 200,
+    "动作奇幻": 200,
+    "爱情生活": 200,
+    "全球片库": 200
+  },
+  "cover_rule": "image_index = ((movie_number - 1) % 150) + 1",
+  "logo": "高清影视大全"
+}
